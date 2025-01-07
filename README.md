@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi! I am Ayomide Fase and a data analyst passionate about uncovering the stories hidden within data. My background in Animal Science, where I honed my analytical skills by studying livestock genetics and revenue prediction, provided a strong foundation for my transition into data analysis in 2022. Analyzing experimental data for my thesis further ignited my interest in the power of data-driven insights.
+Hi! I am Ayomide Fase and a data analyst passionate about uncovering the stories hidden within data. My background in Animal Science, where I honed my analytical skills by analysing data to derive insights on livestock genetics and revenue prediction, provided a strong foundation for my transition into data analysis in 2022. Analyzing experimental data for my thesis further fueled my interest in the power of data-driven insights.
 
-Since then, I've focused on building a robust data analysis skillset. I completed the Google Data Analytics Professional Certificate, gaining expertise in data cleaning, manipulation, transformation, analysis, and visualization. I'm also proficient in SQL and R, and have experience with creating interactive dashboards using Tableau. An internship provided valuable hands-on experience, collaborating with senior analysts on competitor analysis and product development research. I enjoy tackling real-world data challenges, as demonstrated in my Netflix Performance Insights project, where I used API integration to handle missing data and analyze data.
+Since then, I've focused on building a robust data analysis skillset. I completed the Google Data Analytics Professional Certificate, gaining expertise in data cleaning, manipulation, transformation, analysis, and visualization. I'm also proficient in SQL and R, and have experience with creating interactive dashboards using Tableau. An internship provided valuable hands-on experience, collaborating with senior analysts on competitor analysis and product development research. I enjoy tackling real-world data challenges, as demonstrated in my Netflix Performance Insights project, where I used API integration to handle missing data.
 
-My curiosity extends beyond the workplace; I regularly explore datasets in my free time, driven by a desire to uncover insights and understand how data can drive positive change. This continuous learning mindset is reflected in my portfolio, where each project showcases my ability to translate complex data into actionable narratives.
+I regularly explore datasets in my free time, driven by a desire to uncover insights and understand how data can drive positive change. This continuous learning mindset is reflected in my portfolio, where each project showcases my ability to translate complex data into actionable narratives.
 
 My [CV](ayomide_fase_cv.pdf)
 
