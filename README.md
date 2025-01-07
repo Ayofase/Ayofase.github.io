@@ -1,2 +1,7 @@
-# Ayofase.github.io
-This repository showcases my data analysis portfolio, demonstrating my skills and experience through a variety of projects. Each project tells a story, providing insights into my approach to problem-solving, data manipulation, visualization, and interpretation. Explore the projects and discover how I transform data into actionable narratives.
+# Ayomide Fase - Data Analyst Portfolio
+## About Me
+
+Hi! I am Ayomide Fase and I have an strong analystical background in Animal Science which was the course studied in the University. I became mesmerised how Animal Scientist collects data over years and analyse this data for future prediction on livestocks genetics and revenue. I practiced my first analysis when i was working on my thesis which required me to analyse the experimental data collected to provide insights and recommendation for further research. This fueled my descision to transition further into data analysis in 2022 which was fueled by my further inquisitive behavour into the stories data can tell us. I started this journey by taking and completing the Google Data Analytics Professional Program which equiped me with vast knowledge of da from there Interned as a data analyst, collaborated with senior analysts on research projects, analyzing competitor data and
+identifying key trends to inform product development strategies. 
+
+I spend most of my free-time looking for dataset to analyse and intringued my the story that particular dataset is telling and how it can improve the companys growth like a detective trying to solve a murder mistery. I have further improved on my data collection skills as i was faced wit a problem that required me to use API integration to collect data in the Netflix Performance Insights project. I have also improved tremendously in other required skills like data cleaning, data manipulation, data transformation, data analysis, data visualisation and creating interactive dashboards.
