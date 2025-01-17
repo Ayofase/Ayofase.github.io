@@ -8,7 +8,6 @@ Since then, I've focused on building a robust data analysis skillset. I complete
 
 I regularly explore datasets in my free time, driven by a desire to uncover insights and understand how data can drive positive change. This continuous learning mindset is reflected in my portfolio, where each project showcases my ability to translate complex data into actionable narratives.
 
-My [CV](ayomide_fase_cv.pdf)
 
 ## Table of Contents
  - [About Me](#about-me)
