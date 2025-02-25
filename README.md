@@ -37,7 +37,7 @@ I regularly explore datasets in my free time, driven by a desire to uncover insi
 **Tools:** Excel, SQL, R and Tableau
 
 ## Education
-University of Ibadan - Bachelor's degree, Animal Science, 2017 - 2023
+University of Ibadan - Bachelor's degree, Animal Science
 
 ## Certificate 
 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/7413d6d1-2de8-4d60-b134-82b4a66eba00) (Nov 2024) (Coursera - Google)
