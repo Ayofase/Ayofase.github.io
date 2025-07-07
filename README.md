@@ -17,15 +17,15 @@ I regularly explore datasets in my free time, driven by a desire to uncover insi
  - [Contact](#contact)
 
 ## Portfolio Projects
-### [Reducing Churn: A Comparative Analysis of Streaming and Non-Streaming Subscribers](https://github.com/Ayofase/Telco-Churn-Analysis/tree/main)
+### [Prediction Customer Churn: A Comparative Analysis of Streaming and Non-Streaming Subscribers](https://github.com/Ayofase/Telco-Churn-Analysis/tree/main)
 
-**Goals:** Analyze customer churn drivers, particularly for streaming subscribers, to develop data-driven recommendations and an interactive dashboard for improved retention and maximized customer lifetime value.
+**Goals:** Analyze customer behavior and service usage patterns to understand the key customer churn drivers, particularly for streaming subscribers, and to predict customer likely to churn developing data-driven recommendations and an interactive dashboard for improved retention and maximized customer lifetime value.
 
-**Description:** This project analyzes customer churn for a telecom company, focusing on the impact of streaming services. Key findings revealed higher churn among fiber optic customers despite it being ideal for streaming, suggesting pricing or service quality issues. Furthermore, while longer-term contracts effectively reduced churn, streaming service usage presented a complex relationship with churn. Recommendations include enhancing the fiber optic customer experience, targeted retention campaigns for streamers, and optimized onboarding processes. An interactive Tableau dashboard facilitates exploration of these findings.
+**Description:** This project predict and analyzes customer churn for a telecom company, focusing on the impact of streaming services. Key findings revealed higher churn among fiber optic customers despite it being ideal for streaming, suggesting pricing or service quality issues. Furthermore, while longer-term contracts effectively reduced churn, streaming service usage presented a complex relationship with churn. Recommendations include enhancing the fiber optic customer experience, targeted retention campaigns for streamers, and optimized onboarding processes. An interactive Tableau dashboard facilitates exploration of these findings.
 
-**Skills:** Data cleaning, Data Manipulation, Exploratory Data analysis, Data Visualisation and Interactive dashboard.
+**Skills:** Data cleaning, Data Manipulation, Exploratory Data analysis, Data Visualisation and Interactive dashboard, Feature Engineering, Model Development, Model Evaluation.
 
-**Tools:** Excel, SQL, R and Tableau
+**Tools:** Excel, SQL, R and Tableau, Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn ) 
 
 ### [Netflix Streaming Performance (2019-2024): A Data-Driven Analysis of Revenue, Membership, and Content Engagement Trends](https://github.com/Ayofase/Netflix-performance-insights/tree/main)
 
