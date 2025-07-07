@@ -17,7 +17,7 @@ I regularly explore datasets in my free time, driven by a desire to uncover insi
  - [Contact](#contact)
 
 ## Portfolio Projects
-### [Prediction Customer Churn: A Comparative Analysis of Streaming and Non-Streaming Subscribers](https://github.com/Ayofase/Telco-Churn-Analysis/tree/main)
+### [Reducing Churn & Optimizing Customer Success: From Analysis to Predictive Modeling](https://github.com/Ayofase/Telco-Churn-Analysis/tree/main)
 
 **Goals:** Analyze customer behavior and service usage patterns to understand the key customer churn drivers, particularly for streaming subscribers, and to predict customer likely to churn developing data-driven recommendations and an interactive dashboard for improved retention and maximized customer lifetime value.
 
